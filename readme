@@ -1,0 +1,15 @@
+To run the program you can type
+
+make clean; make; ./mandelbrot < in.txt
+
+in.txt contains the parameters given by Professor Bell
+
+
+filename
+nRows
+nCols
+numIters
+xMin
+xMax
+yMin
+yMax
